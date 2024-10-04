@@ -16,13 +16,13 @@ Como descripción inicial del programa, se podrían indicar sus funciones de la 
                              l                                                  l                                       l
                              l                                                  l                                       l
               Seleccionar el numero de la tarea                       Seleccionar la forma en                llenar especificaciones de
-              a eliminar de una lista de                              que se mostraran las tareas            la tarea a agregar (descripción,
-              opciones (1/2/3/4/...)                                  (fecha/dificultad/duración/...)        materia, fecha, hora, dificultad, duración)
+              a eliminar de una lista de                              que se mostraran las tareas            la tarea a agregar (descripción y
+              opciones (1/2/3/4/...)                                  (todas / materia específica)           materia)    i
                              l                                                   i                                       i
                              l                                                   i                                       i
-                    confirmar (si/no)                                 despliegue de lista o tabla                  confirmar (si/no)
+                    confirmar (si/no)                                 despliegue de lista                        confirmar (si/no)
                              i                                                  Fin                                      i
                              i                                                                                           i
-              eliminación de información                                                                     integración de información a los archivos
-              especificada de los archivos                                                                              Fin
+              eliminación de información                                                                    integración de información a la matriz
+              especificada de la matriz                                                                                 Fin
                             Fin
